@@ -5,7 +5,7 @@
 - TailwindCSS
 
 ## - Preview of this project
-![image](shopify-clone.png)
+![image](Shopify-clone.png)
 
 
 ***
